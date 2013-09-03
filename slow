@@ -114,15 +114,15 @@ do
        3G|3g)
          command=slow
 	    # Yahoo claims US average bandwidth to its blog from mobile is ~700
-         bandwidth=600kbps
-	    # Sprint claims an "average" of 400ms
+         bandwidth=650kbps
+	    # Sprint claims an "average" of 430ms (2010)
          latency=300ms
          packetloss=5
          ;;
        4G|4g)
          command=slow
 #         bandwidth=10000kbps
-         bandwidth=4500kbps
+         bandwidth=3500kbps
          latency=120ms
          packeloss=1
          ;;
