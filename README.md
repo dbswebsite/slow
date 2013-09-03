@@ -2,9 +2,8 @@ slow
 ====
 
 This bash script offers quick shortcuts to simulate slower network connections.
-It is useful when you need to simulate a wireless network on Linux, especially
-when you are using a virtual machine guest on your local machine or in the
-cloud.
+It is useful when you need to simulate a wireless network on *nix. Configure
+bandwidth, latency and packet loss, with many preset configurations.
 
 Example commands:
 
